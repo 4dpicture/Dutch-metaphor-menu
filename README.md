@@ -3,7 +3,8 @@
 ## Overview
 As part of the project activities on patient-centered language and communication, we developed and evaluated a computational approach for identifying metaphors used by Dutch-speaking cancer patients. The work focused on patient-produced language from two complementary sources: cancer patient interviews and online patient narratives from the Dutch cancer platform kanker.nl. 
 The methodology and initial findings were reported in 1) our paper on Dutch metaphor extraction, published at the CL4Health Workshop at LREC 2026; 2) The master thesis from LIACS by Ruzanna Baghdasaryan. 
-The resulting metaphor collection is being further curated as HealthQuote.NL (from CL4Health paper), a Dutch-language resource of metaphors occurring in cancer-related patient narratives. It is further extended as “HealthQuote.NL Master” by integrating the Master thesis outputs and more metaphors identified afterwards from forum data. The link to the full collection can be found in Appendix A1.
+The resulting metaphor collection is being further curated as HealthQuote.NL (from CL4Health paper), a Dutch-language resource of metaphors occurring in cancer-related patient narratives. It is further extended as “HealthQuote.NL Master” by integrating the Master thesis outputs and more metaphors identified afterwards from forum data. 
+
 
 ## Data Sources
 For the Dutch metaphors, we followed three different routes, for three different datasets: (1) interviews with cancer patients (conducted by Ingeborg Griffioen), (2) the kanker.nl forum (shorter, conversational) data, (3) the kanker.nl patient blogs (longer text) data.
