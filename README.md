@@ -13,3 +13,8 @@ The second source consists of forum posts from kanker.nl. Compared with the inte
 The third source consists of blog posts from kanker.nl written by patients or loved ones, in which they share their personal experiences of living with cancer. These texts are substantially longer than the forum posts, with an average length of 465 words. We selected a subset of 55 blog posts (out of 15,643) for manual annotation.
 Keeping the 3 sources separated is important because metaphors occurring in interviews and those appearing in online patient narratives (forum, blogs) may differ in their linguistic form, context, and communicative function.
 
+## citations
+Lifeng Han, David Lindevelt, Sander Puts, Erik van Mulligen, and Suzan Verberne. 2026. Dutch Metaphor Extraction from Cancer Patients’ Interviews and Forum Data Using LLMs and Human in the Loop. In Proceedings of the Third Workshop on Patient-Oriented Language Processing (CL4Health) @ LREC 2026, pages 82–95, Palma, Mallorca (Spain). ELRA Language Resources Association (ELRA). 
+
+Baghdasaryan, R. (Ruzanna), From war to wellness: Understanding patient experience through automatic metaphor detection, Thesis Master Computer Science, LIACS, Leiden University, 2026. 
+
